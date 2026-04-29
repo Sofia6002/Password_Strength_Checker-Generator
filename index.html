@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Strength Checker</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    
+    <div class="container">
+       <div class="container--checker">
+    <h1>Password Strength Checker</h1>  
+     <input type="password" id="password" maxlength="30" pattern="^\S+$" autofocus placeholder="Enter your password...">  
+    <div id="checkbox_box"></div>
+         <label >Show password</label>
+         <input type="checkbox" id="show_pwd"> 
+    </div>
+    <h3 id="strength">XXXXX</h3>  <!-- set in js  also updates in real time -->  
+    <p class="characters_count" >Total Characters: <span id="character_count">0</span></p>
+    <div class="characters_type">
+        <label for="property">Has:</label>
+        <span class="property" id="upper">Uppercase</span>  <!-- text chages to green colur if its present -->
+        <span class="property" id="lower">Lowercase</span>
+        <span class="property" id="sym">Symbol</span>
+        <span class="property" id="num">Number</span>
+    </div>
+    <p id="feedback">xxxxxx</p> <!-- set in js -->
+     <div class="container--generator">
+     <h2 >Random Password Generator:</h2>
+    <label for="pass_length_gen" >Length</label>
+     <input type="number"  id="pass_length_gen" placeholder="Enter value greater than 8" min="8" max="30">
+     
+     <button type="button" id="gen_btn">Generate</button>
+
+     </div>
+    </div>
+    </div>
+
+  <script src="script.js"></script>  
+</body>
+</html> 
