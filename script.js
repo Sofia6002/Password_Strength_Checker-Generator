@@ -102,7 +102,7 @@ password.addEventListener("input", function(){
 
 show_pwd.addEventListener("change",function(){
     if(show_pwd.checked){password.type="text"}
-    else{password.type=password}
+    else{password.type="password"}
 })
 
 
