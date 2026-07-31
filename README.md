@@ -26,8 +26,7 @@ This rules-table approach makes it easy to tune scoring later without touching t
 
 ## Screenshots
 
-**Weak password:**
-Shows character count, which requirements are met, and improvement tips.
+![Description of image](screenshorts/image.png)
 
 **Very strong password:**
 All requirements met, green indicators, top strength tier.
