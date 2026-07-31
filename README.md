@@ -36,7 +36,5 @@ All requirements met, green indicators, top strength tier.
 Clean default state before any input.
 
 ## Try it
-
-Just open `index.html` in any browser — no build step or server required.
-
+(https://projects-deploy.infinityfree.io/password_strength_Checker/index.html)
 
