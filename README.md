@@ -39,6 +39,4 @@ Clean default state before any input.
 
 Just open `index.html` in any browser — no build step or server required.
 
-## Author
 
-Built by Sofia
