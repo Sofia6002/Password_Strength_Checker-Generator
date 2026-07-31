@@ -26,7 +26,8 @@ This rules-table approach makes it easy to tune scoring later without touching t
 
 ## Screenshots
 
-[pass generator](image.png)
+![pass generator](image.png)  ![pass generator](image2.png)
+
 
 **Very strong password:**
 All requirements met, green indicators, top strength tier.
