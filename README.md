@@ -27,6 +27,10 @@ This rules-table approach makes it easy to tune scoring later without touching t
 ## Screenshots
 
 ![pass generator](image.png)  ![pass generator](image2.png)
+<p float="left">
+    <img src="image" width="300">
+    <img src="image.png" width="300">
+  </p>
 
 
 **Very strong password:**
