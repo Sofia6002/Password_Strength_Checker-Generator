@@ -28,8 +28,8 @@ This rules-table approach makes it easy to tune scoring later without touching t
 
 ![pass generator](image.png)  ![pass generator](image2.png)
 <p float="left">
-    <img src="image" width="300">
-    <img src="image.png" width="300">
+    <img src="image" width="30">
+    <img src="image.png" width="30">
   </p>
 
 
