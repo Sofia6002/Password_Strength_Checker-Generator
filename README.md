@@ -43,6 +43,5 @@ All requirements met, green indicators, top strength tier.
 **Empty state:**
 Clean default state before any input.
 
-## Try it
-(https://projects-deploy.infinityfree.io/password_strength_Checker/index.html)
+
 
