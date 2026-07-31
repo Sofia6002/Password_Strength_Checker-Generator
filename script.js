@@ -95,7 +95,8 @@ password.addEventListener("input", function(){
     
      /*  console.log(score)
          console.log(indexa)
-         console.log(password.value) */
+         console.log(password.value) 
+         project done by: https://github.com/Sofia6002*/
 
 })
 
