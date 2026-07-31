@@ -2,6 +2,9 @@
 
 A real-time password strength checker with visual feedback and a built-in random password generator.
 
+## Try it
+https://projects-deploy.infinityfree.io/password_strength_Checker/index.html
+
 ## What it does
 
 - **Live strength analysis** as you type — no submit button needed
