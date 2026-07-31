@@ -30,6 +30,7 @@ This rules-table approach makes it easy to tune scoring later without touching t
     <img src="img/image1.png" width="300">
     <img src="img/image2.png" width="300">
     <img src="img/image2.png" width="300">
+    <img src="img/image4.png" width="300">
   </p>
 
 
